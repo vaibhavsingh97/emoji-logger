@@ -1,5 +1,6 @@
 # emoji-logger
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3aa7b92c32b8408fb9fb31de87c198d7)](https://app.codacy.com/app/vaibhavsingh97/emoji-logger?utm_source=github.com&utm_medium=referral&utm_content=vaibhavsingh97/emoji-logger&utm_campaign=Badge_Grade_Settings)
 [![Go Report Card](https://goreportcard.com/badge/github.com/vaibhavsingh97/emoji-logger)](https://goreportcard.com/report/github.com/vaibhavsingh97/emoji-logger)
 [![GoDoc](https://godoc.org/github.com/vaibhavsingh97/emoji-logger?status.svg)](https://godoc.org/github.com/vaibhavsingh97/emoji-logger)
 
